@@ -1,4 +1,4 @@
-public class Vetor {
+public class RevisaoVetor {
     public static void main(String[] args) {
 
         double[] temperaturas = new double[365];
